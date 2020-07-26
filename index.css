@@ -6,8 +6,7 @@ body{
 		visibility: hidden;
 	}
 }
-header,section div{
-	text-align: center;
+section div{
 	font-size: 150%;
 }
 nav{
